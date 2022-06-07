@@ -122,11 +122,7 @@
     .find-room {
         flex-direction: column;
         gap: 10px;
-    }
-
-    .calendar {
-        max-width: 700px;
-        width: 100%;
+        align-items: flex-start !important;
     }
 
     .room-overlay {
@@ -137,7 +133,9 @@
         max-height: 580px !important;
         height: 580px !important;
 
+
     }
+
 }
 
 /* eat drink page */
@@ -150,7 +148,7 @@
 
     }
 
-    .view-btn {
+    .response-btn {
         width: 100% !important;
     }
 
