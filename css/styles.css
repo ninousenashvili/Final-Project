@@ -1,4 +1,5 @@
 body {
+    margin-bottom: 150px;
     background: rgb(42, 39, 39);
     background: linear-gradient(188deg, rgba(42, 39, 39, 1) 28%, rgba(32, 32, 87, 1) 65%, rgba(86, 155, 170, 1) 100%);
 }
@@ -108,6 +109,12 @@ body {
 
 } */
 
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
 
 .bottom-footer {
     background-color: #2a2f3c;
