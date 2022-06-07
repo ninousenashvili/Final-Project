@@ -51,18 +51,26 @@ body {
 }
 
 /* bottom-header */
-.header-content {
+/* .header-content {
     display: flex;
     gap: 30px;
     background-color: rgba(52, 74, 113, 1);
     align-items: center;
     padding-left: 40px;
     padding-right: 40px;
-}
+} */
 
 .navigation {
+
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 40px;
+    align-items: center;
+    background-color: rgba(52, 74, 113, 0.85);
     width: 100%;
-    height: 100%;
+    height: 70px;
+    padding-left: 40px;
+    z-index: 900;
 }
 
 .logo {
@@ -72,7 +80,7 @@ body {
 
 .nav-ul {
     display: flex;
-    justify-content: space-between;
+    gap: 80px;
     font-size: 20px;
     text-transform: uppercase;
 }
