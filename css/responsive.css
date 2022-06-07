@@ -107,6 +107,12 @@
         flex-direction: column;
         gap: 15px;
     }
+
+    .header-left {
+        flex-direction: column;
+        align-items: flex-start !important;
+    }
+
 }
 
 /* rooms page */
@@ -122,6 +128,12 @@
     }
 
     .room-overlay {
-        width: 100%;
+        width: 100% !important;
+    }
+
+    .bedroom {
+        max-height: 580px !important;
+        height: 580px !important;
+
     }
 }
