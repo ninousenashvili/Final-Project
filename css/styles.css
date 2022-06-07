@@ -961,9 +961,10 @@ li {
 .post-div {
     background-color: rgba(52, 74, 113, 1);
     opacity: 90%;
-    max-width: 270px;
+    max-width: 350px;
+    height: 200px;
     width: 100%;
-    padding: 20px;
+    /* padding: 10px; */
     border-radius: 5px;
     box-shadow: 3px 3px 3px 3px rgb(72, 69, 69);
 
@@ -980,6 +981,7 @@ li {
     color: rgb(251, 198, 50);
     font-weight: bolder;
     text-align: center;
+    margin-top: 40px;
 }
 
 .description {

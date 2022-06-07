@@ -156,3 +156,14 @@
         max-width: 350px !important;
     }
 }
+
+
+/* staff page */
+
+@media(max-width:350px) {
+    .user-btn {
+        max-width: 270px !important;
+        margin-top: 30px !important;
+
+    }
+}
