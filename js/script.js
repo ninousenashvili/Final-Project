@@ -118,9 +118,9 @@ function arrowrightclick() {
 arrowleft.addEventListener('click', arrowleftclick);
 arrowright.addEventListener('click', arrowrightclick);
 
-setInterval(() => {
-    arrowrightclick();
-}, 3000);
+// setInterval(() => {
+//     arrowrightclick();
+// }, 3000);
 setslide();
 
 
