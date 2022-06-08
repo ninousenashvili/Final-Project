@@ -200,12 +200,14 @@
 
     .img-block {
         flex-direction: column;
-        gap: 30px;
+        gap: 15px;
     }
 
     .spa-overlay {
         left: 0;
-        top: 17px;
+        top: 25%;
+        padding: 5px !important;
+
     }
 
     #spasection {
