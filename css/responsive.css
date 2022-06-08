@@ -175,6 +175,11 @@
 
     }
 
+    .heading {
+        font-size: 18px !important;
+        margin-bottom: 10px !important;
+    }
+
 }
 
 /* eat drink page */

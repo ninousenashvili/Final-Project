@@ -629,7 +629,7 @@ li {
 .register {
     position: fixed;
     left: 50%;
-    top: 35%;
+    top: 40%;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -818,7 +818,7 @@ li {
     font-weight: bolder;
     margin-bottom: 25px;
     border-bottom: 3px solid rgb(82, 5, 36);
-    margin-top: 20px;
+    margin-top: 5px;
 }
 
 
