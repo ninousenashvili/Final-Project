@@ -3,7 +3,7 @@
 } */
 
 body {
-    margin-bottom: 250px;
+    /* margin-bottom: 250px; */
     background: rgb(42, 39, 39);
     background: linear-gradient(188deg, rgba(42, 39, 39, 1) 28%, rgba(32, 32, 87, 1) 65%, rgba(86, 155, 170, 1) 100%);
 }
@@ -107,14 +107,14 @@ body {
 /* bootom-footer styles */
 
 
-footer {
+/* footer {
     position: fixed;
     bottom: 0;
     width: 100%;
     z-index: 999;
+ */
 
 
-}
 
 .bottom-footer {
     background-color: #2a2f3c;
@@ -178,7 +178,15 @@ footer {
     font-size: 12px;
 }
 
-.cont
+.author {
+    color: rgb(149, 135, 8);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.ftr-bottom-text {
+    font-size: 18px;
+}
 
 /* creating slidder styles */
 .slide {
@@ -541,7 +549,7 @@ li {
 /* room details page styles */
 #page-roomdetails {
     background: white;
-    margin-bottom: 250px;
+    /* margin-bottom: 250px; */
 }
 
 .register {
@@ -812,7 +820,7 @@ li {
 
 /* third page-eat/drink page */
 #eatpage {
-    margin-bottom: 220px;
+    /* margin-bottom: 220px; */
     background: rgb(193, 214, 211);
     background: linear-gradient(188deg, rgba(193, 214, 211, 1) 28%, rgba(193, 198, 208, 1) 65%, rgba(244, 250, 230, 1) 100%);
 }
@@ -876,16 +884,16 @@ li {
 
 /* 4th page-spa page styles */
 
-#spapage {
+/* #spapage {
     margin-bottom: 250px;
-}
+} */
 
 #spasection {
     margin: 0 auto;
     max-width: 1200px;
     width: 100%;
     padding-top: 60px;
-    margin-bottom: 100px;
+    /* margin-bottom: 100px; */
 }
 
 .spa-block {
@@ -987,7 +995,7 @@ li {
 
 /* service page styles */
 #servicepage {
-    margin-bottom: 200px;
+    /* margin-bottom: 200px; */
     background: rgb(230, 241, 239);
     background: linear-gradient(188deg, rgba(193, 214, 211, 1) 28%, rgba(193, 198, 208, 1) 65%, rgba(244, 250, 230, 1) 100%);
 
