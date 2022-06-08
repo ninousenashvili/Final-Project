@@ -1,3 +1,5 @@
+// desplay server information on page 
+
 function getuser(page) {
     let request = new XMLHttpRequest();
     request.addEventListener('load', render);
