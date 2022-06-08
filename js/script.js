@@ -5,20 +5,20 @@ let data = [
         id: 1,
         imageurl: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/b1/c0/1f/swimming-pool.jpg?w=900&h=-1&s=1',
         title: 'check our spa center',
-        url: 'https://www.google.com/'
+        url: '#'
     },
     {
         id: 2,
         imageurl: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/45/fc/f1/hotel-suit-in-side-turkey.jpg?w=900&h=-1&s=1',
         title: 'create memories',
-        url: 'https://www.google.com/'
+        url: '#'
     },
 
     {
         id: 3,
         imageurl: 'https://carpediem.ge/wp-content/uploads/2020/01/rsz_img_0205.jpg',
         title: 'relax, rechange',
-        url: 'https://www.google.com/'
+        url: '#'
     },
 
 ];
