@@ -517,10 +517,15 @@ li {
 .register {
     position: fixed;
     left: 50%;
-    top: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     display: none;
-    z-index: 901;
+    z-index: 1000;
+    max-width: 500px;
+    max-height: 600px;
+    height: 100%;
+    width: 100%;
 }
 
 .register.active {
@@ -658,7 +663,7 @@ li {
 /* form styles */
 
 #registration {
-    max-width: 500px;
+    /* max-width: 550px; */
     width: 100%;
     background-color: #acacac;
     padding: 20px;
