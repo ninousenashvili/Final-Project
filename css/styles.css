@@ -1101,11 +1101,9 @@ li {
 
 /* Staff page styles */
 #servicepage {
-    background: rgb(230, 241, 239);
-    background: -o-linear-gradient(262deg, rgba(193, 214, 211, 1) 28%, rgba(193, 198, 208, 1) 65%, rgba(244, 250, 230, 1) 100%);
-    background: linear-gradient(188deg, rgba(193, 214, 211, 1) 28%, rgba(193, 198, 208, 1) 65%, rgba(244, 250, 230, 1) 100%);
-
-
+    background: rgb(42, 39, 39);
+    background: -o-linear-gradient(262deg, rgb(44, 37, 72) 28%, rgba(32, 32, 87, 1) 65%, rgba(86, 155, 170, 1) 100%);
+    background: linear-gradient(188deg, rgb(12, 6, 27) 28%, rgba(32, 32, 87, 1) 65%, rgba(86, 155, 170, 1) 100%);
 }
 
 #service-section {
@@ -1191,12 +1189,14 @@ li {
     font-size: 30px;
     text-align: center;
     margin-bottom: 80px;
-    border-bottom: 3px solid black;
+    border-bottom: 3px solid rgb(143, 78, 14);
     padding: 5px;
     border-style: dashed;
     text-transform: uppercase;
     max-width: 600px;
     width: 100%;
     font-family: 'Courgette';
+    color: rgb(188, 139, 4);
+    font-weight: bolder;
 
 }
